@@ -1,4 +1,4 @@
-Hi there, I'm Andrei 👋
+**Hi there, I'm Andrei** 👋
 
 - 👀 I’m currently working with .NET, building High-Frequency Trading Desktop Applications.
 - 🌱 I’m currently learning ASP.NET Core and Web APIs.
