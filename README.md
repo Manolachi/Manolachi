@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Manolachi
-- 👀 I’m interested in .NET Development.
-- 🌱 I’m currently learning WPF.
-- 💞️ I’m looking to collaborate on building Desktop Applications.
+Hi there, I'm Andrei 👋
+
+- 👀 I’m currently working with .NET, building High-Frequency Trading Desktop Applications.
+- 🌱 I’m currently learning ASP.NET Core and Web APIs.
+- 💞️ I’m looking to collaborate with other businesses.
 - 📫 You can find me on [Linkedin](https://www.linkedin.com/in/manolachi-andrei/)
 
 <!---
