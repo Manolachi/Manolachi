@@ -2,7 +2,7 @@
 
 - 👀 I’m currently working with .NET, building High-Frequency Trading Desktop Applications.
 - 🌱 I’m currently learning ASP.NET Core and Web APIs.
-- 💞️ I’m looking to collaborate with other businesses.
+- 👯 I’m looking to collaborate with other businesses.
 - 📫 You can find me on [Linkedin](https://www.linkedin.com/in/manolachi-andrei/)
 
 <!---
